@@ -1,0 +1,19 @@
+name: introCV
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python
+- numpy
+- jupyter
+- notebook
+- matplotlib
+- scikit-learn
+- scipy
+- pandas
+- pillow
+- seaborn
+- statsmodels
+- graphviz
+- jupyter_contrib_nbextensions
+- scikit-image
