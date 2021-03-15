@@ -13,4 +13,4 @@ Basta con seleccionar la carpeta donde esta el archivo `enviroment.yml` y ejecut
 
 - Taller 3 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santialferez/introCV/blob/main/S11_taller/Taller-Morfologia-Segmentacion1.ipynb)
 
-- Taller 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santialferez/introCV/introCV/blob/main/S14_taller/Taller_Segmentacion2.ipynb)
+- Taller 4 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/santialferez/introCV/blob/main/S14_taller/Taller_Segmentacion2.ipynb)
